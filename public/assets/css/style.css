@@ -568,7 +568,7 @@ img.icon-contact {
     }
     .tohome-icon
     {
-        width:30px;
+        width:45px;
     }
     .to-home
     {
@@ -586,6 +586,7 @@ img.icon-contact {
         right: 0!important;
         bottom:0!important;
     }
+    
 }
 .header
 {
@@ -694,9 +695,7 @@ img.icon-contact {
 .hamburger.rotate .line::after{
     transform: rotate(-45deg);
 }
-.menu.show li {
-    border: 1px solid #ffffff38;
-}
+
 .banner
 {
     height:600px;
@@ -725,9 +724,24 @@ img.icon-contact {
         z-index: 99;
         display: block;
     }
+    .menu.show li {
+        border: 1px solid #ffffff38;
+    }
+    
+}
+@media(max-width:1208px)
+{
+    .contact-social-icon
+    {
+        margin:auto 10px!important;
+    }
 }
 @media(min-width:1025px)
 {
+    .menu.show
+    {
+        padding-top:0;
+    }
     .menu{
         position: static;
         width:auto;
