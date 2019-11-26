@@ -21,6 +21,10 @@ body{
     /* background: linear-gradient(to right, #FF4B1F, #1FDDFF); */
     background: linear-gradient(45deg, #360033, #0B8793);
 }
+.scroll
+{
+    position:fixed;
+}
 h1,h2,h3,h4,h5,h6{
     font-family: Lato,sans-serif,Arial;
 }
