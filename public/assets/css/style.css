@@ -245,7 +245,7 @@ p.intro {
     color:#fff;
 }
 .service-card,.service-card-2,.service-card-3 {
-    height: 310px;
+    height: 100%;
     /* border: 1px solid #fff; */
     padding: 10px 20px;
     /* background: #f0f4f7; */
