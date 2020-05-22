@@ -264,7 +264,7 @@ p.intro {
     color:#fff;
 }
 
-.card:hover  .card-body>.card-title{color:#293d4a;transition: all 0.5s;}
+.card:hover  .card-body>.card-title{color:#336180;transition: all 0.5s;}
 .card:hover  .card-body>.card-text{color:#293d4a;transition: all 0.5s;}
 .card:hover .visit-site-btn{
     text-decoration: none;
