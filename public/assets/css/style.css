@@ -750,6 +750,13 @@ img.icon-contact {
 {
     padding:0;
 }
+@media(max-width:768px)
+{
+    .container
+    {
+        width:80%!important;
+    }
+}
 @media(max-width:1024px){
     .menu
     {
